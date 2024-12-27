@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.content {
+    background-color: aqua;
+    margin: 24px;
+    
+}
+
+.title {
+    text-align: center;
+    color: chocolate;
+    background-color: aquamarine;
+    padding: 16px;
+    font-size: 24px;
+}
+
+.list {
+    list-style-type: circle;
+    padding: 8px;
+    margin-left: 32px;
+}
