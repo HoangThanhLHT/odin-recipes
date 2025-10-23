@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgb(113, 190, 190);
+    width: 600px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+h1 {
+    color: rgb(126, 14, 14);
+    text-align: center;
+}
+
+.recipes {
+    background-color: azure;
+    padding: 8px;
+    margin: 8px;
+    text-align: center;
+}
+
+h2 {
+    color: chocolate;
+    text-decoration: underline;
+}
